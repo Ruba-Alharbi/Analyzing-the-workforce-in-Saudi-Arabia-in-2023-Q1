@@ -36,8 +36,12 @@ The analysis includes:
 **[View Dashboard](https://public.tableau.com/views/TheMakkahregionstop10populareconomicactivitieswithinmicroenterprises_/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
    
 2. Riyadh Region Dashboard:
-  - Displaying the distibution of enterprises based on their size categories (Micro, Small, Medium, Large)
+  - Displaying the distribution of enterprises based on their size categories (Micro, Small, Medium, Large)
   - Economic activities rankings in enterprises of different sizes in Riyadh, organized by enterprise size.
   - Economic activities rankings in enterprises of different sizes in Riyadh, organized by workforce.
 
 **[View Dashboard](https://public.tableau.com/views/RiyadhEconomicActivity/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
+# Key Insights
+- Analyzing the data reveals Retail trade and building construction as the primary economic activities among Makkah's microenterprises, with 34,011 and 22,418 enterprises, respectively. Additionally, a substantial workforce imbalance is evident, with non-Saudi employees outnumbering Saudis by about 820.95%, emphasizing a significant workforce disparity.
+- 
