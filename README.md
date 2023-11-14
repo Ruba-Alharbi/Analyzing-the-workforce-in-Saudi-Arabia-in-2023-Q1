@@ -44,4 +44,4 @@ The analysis includes:
 
 # Key Insights
 - Analyzing the data reveals Retail trade and building construction as the primary economic activities among Makkah's microenterprises, with 34,011 and 22,418 enterprises, respectively. Additionally, a substantial workforce imbalance is evident, with non-Saudi employees outnumbering Saudis by about 820.95%, emphasizing a significant workforce disparity.
-- 
+- Analyzing the data reveals also a substantial lead of 431,407 for microenterprises over large enterprises in Riyadh. In terms of economic activities across enterprise sizes, Fishing and Aquaculture, along with Rental Activities, show a significant majority, particularly among microenterprises. Regarding workforce distribution, Building Construction, and Fishing and Aquaculture appear as the primary sectors.
